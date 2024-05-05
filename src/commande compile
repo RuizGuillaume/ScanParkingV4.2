@@ -1,0 +1,1 @@
+g++ main.cpp gachette.cpp camera.cpp reconnaissanceplaque.cpp -o ScanParking -I/usr/local/include/ -lwiringPi -lopenalpr -lraspicam -lraspicam_cv -lopencv_core -lopencv_highgui libmmal.so libmmal_core.so libmmal_util.so

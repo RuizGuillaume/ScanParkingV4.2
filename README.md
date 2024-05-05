@@ -1,2 +1,2 @@
 # ScanParkingV4.2
-Student project
+Creation of a portable geolocation scanner to read, via OCR, the license plates of cars parked in one of a school's private parking lots. Once the plate has been scanned, the agent equipped with the device is geolocated to find out which parking lot he or she is in, in order to check that the plate has been entered in a database of vehicles authorized to park in that parking lot.
